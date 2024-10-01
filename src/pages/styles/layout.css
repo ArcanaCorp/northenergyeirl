@@ -1,0 +1,27 @@
+.__main .__a_wh {
+    position: fixed;
+    display: grid;
+    right: 20px;
+    width: 60px;
+    bottom: 20px;
+    height: 60px;
+    z-index: 10001;
+    min-width: 60px;
+    place-items: center;
+    border-radius: 100px;
+    background-color: #25d366;
+}
+
+.__main .__a_wh .tabler-icon {
+    width: 32px;
+    height: 32px;
+    stroke-width: 1.5;
+    stroke: var(--white);
+}
+
+@media (min-width: 1024px) {
+    .__main .__a_wh {
+        right: 40px;
+        bottom: 40px;
+    }
+}

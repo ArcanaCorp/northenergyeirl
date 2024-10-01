@@ -1,0 +1,111 @@
+.__section_services {
+    position: relative;
+    padding: 4rem 0rem;
+    overflow: hidden;
+}
+
+.__section_services .__title h2 .__title_txt_1 {
+    font-size: 2rem;
+}
+
+.__section_services .__title h2 .__title_txt_2 {
+    font-size: 3rem;
+}
+
+.__section_services .__contnt {
+    width: 80%;
+    margin: auto;
+    padding: 2rem 0rem;
+}
+
+.__section_services .__contnt .__row {
+    width: 100%;
+    display: flex;
+    gap: 2rem;
+    padding: 2rem 0rem;
+    justify-content: space-between;
+}
+
+.__section_services .__contnt .__row_ltr {
+    flex-direction: column;
+}
+
+.__section_services .__contnt .__row_rtl {
+    flex-direction: column;
+}
+
+.__section_services .__contnt .__row .__imgs {
+    position: relative;
+}
+
+.__section_services .__contnt .__row .__imgs .__fig {
+    overflow: hidden;
+    border-radius: 20px;
+    transform: rotate(-4deg);
+}
+
+.__section_services .__contnt .__row .__text h2 {
+    margin-bottom: 2rem;
+}
+
+.__section_services .__contnt .__row .__text h2 .__txt_p_1 {
+    font-size: 1.5rem;
+    font-weight: 200;
+    color: #b3b3b3;
+}
+
+.__section_services .__contnt .__row .__text h2 .__txt_p_2 {
+    font-size: 2.5rem;
+    color: var(--secondary);
+}
+
+.__section_services .__contnt .__row .__text .__xtx {
+    width: 100%;
+    font-size: 1rem;
+    color: #888888;
+    line-height: 28px;
+}
+
+@media (min-width: 1024px) {
+
+    .__section_services .__title h2 .__title_txt_1 {
+        font-size: 3rem;
+    }
+    
+    .__section_services .__title h2 .__title_txt_2 {
+        font-size: 5rem;
+    }
+
+    .__section_services .__contnt .__row_ltr {
+        flex-direction: row;
+    }
+
+    .__section_services .__contnt .__row_rtl {
+        flex-direction: row-reverse;
+    }
+
+    .__section_services .__contnt .__row .__imgs .__fig {
+        width: 350px;
+        height: 250px;
+        background-color: #F2F0F5;
+    }
+
+    .__section_services .__contnt .__row .__text h2 .__txt_p_1 {
+        font-size: 2rem;
+        font-weight: 200;
+        color: #b3b3b3;
+    }
+
+    .__section_services .__contnt .__row .__text h2 .__txt_p_2 {
+        font-size: 3rem;
+        color: var(--secondary);
+    }
+
+    .__section_services .__contnt .__row .__text .__xtx {
+        width: 70%;
+        font-size: 1rem;
+        color: #888888;
+        line-height: 28px;
+    }
+
+}
