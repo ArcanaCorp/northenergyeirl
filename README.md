@@ -1,70 +1,37 @@
-# Getting Started with Create React App
+# NORTH ENERGY EIRL - Página Web Oficial ⚡🌐
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este repositorio contiene el código fuente de la página web oficial de **NORTH ENERGY EIRL**, una empresa peruana especializada en el mantenimiento y montaje de redes eléctricas para sectores residenciales, comerciales e industriales.
 
-## Available Scripts
+## 🛠️ Tecnologías utilizadas
+- **HTML5**: Estructura de la página web.
+- **CSS3**: Estilos personalizados y diseño responsivo.
+- **JavaScript**: Interactividad y dinamismo en la página.
+- **PHP**: Backend para el manejo de formularios y conexión con la base de datos.
+- **MySQL**: Base de datos para almacenar la información de proyectos y clientes.
 
-In the project directory, you can run:
+## 📄 Funcionalidades
+- **Página informativa**: Describe en detalle los servicios que ofrece NORTH ENERGY EIRL.
+- **Galería de proyectos**: Exhibe imágenes de los proyectos más importantes realizados por la empresa.
+- **Formulario de contacto**: Permite que los usuarios interesados se comuniquen directamente con la empresa.
+- **Optimización para dispositivos móviles**: Diseño adaptativo para garantizar una experiencia fluida en todos los dispositivos.
 
-### `npm start`
+## 🖼️ Capturas de pantalla
+*Incluye capturas de pantalla de las páginas clave como el inicio, la galería de proyectos y el formulario de contacto para mejorar la presentación.*
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🤝 Contribuciones
+Si deseas contribuir a este proyecto, por favor, crea un *pull request* o contacta al equipo de desarrollo.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🧑‍💻 Equipo de Desarrollo
+- **ARCANA CORP** - Desarrollo de software
+- **Jhans Franco Pérez Caro** - CEO & Fundador
 
-### `npm test`
+## 📞 Contacto
+Para consultas o soporte técnico, puedes comunicarte con nosotros a través de los siguientes medios:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- **Correo electrónico**: soporte@arcana.codes
+- **Sitio web**: [https://www.arcana.codes](https://www.arcana.codes)
+- **Teléfono**: +51 966 327 426
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Este proyecto es desarrollado y mantenido por **ARCANA CORP**.
